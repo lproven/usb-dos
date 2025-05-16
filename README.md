@@ -53,3 +53,7 @@ There are some more instructions in the [USB-DOS wiki](https://github.com/lprove
 ## Questions, hints, suggestions? 
 
 By all means use Github issues to tell me about problems, make suggestions, etc. You can also find me on [Bluesky](https://bsky.app/profile/lproven.bsky.social), [Mastodon](https://social.vivaldi.net/deck/@lproven/), [~~Twitter~~ X](https://x.com/lproven), [Dreamwidth](https://liam-on-linux.dreamwidth.org/) and [other places](https://about.me/liamproven).
+
+## Espresso your gratitude?
+
+If you like this or find it useful, then by all means please do [Buy Me A Coffee](https://buymeacoffee.com/lproven). Thank you!
